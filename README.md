@@ -9,3 +9,7 @@ Wtyczka do serwerów FiveM umożliwiająca hospitalizacje graczy za pieniądze.
 - esx_ambulancejob
 - [progressBars](https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287)
 - Gabz PillBox Hospital v2
+
+## Jak zmienić cene leczenia?
+
+- wejdź w config.lua i zmień
